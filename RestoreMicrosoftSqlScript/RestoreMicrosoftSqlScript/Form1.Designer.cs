@@ -1,4 +1,4 @@
-﻿namespace FinalHomeWorkChecker
+﻿namespace RestoreMicrosoftSQLScript
 {
     partial class Form1
     {

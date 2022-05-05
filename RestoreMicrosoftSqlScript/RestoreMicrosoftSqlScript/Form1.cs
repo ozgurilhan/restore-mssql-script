@@ -61,6 +61,7 @@ namespace RestoreMicrosoftSQLScript
                     lines.RemoveAt(0);
                 }
 
+                //Generate script again without USE Database text
                 StringBuilder builder = new StringBuilder();
                 foreach (var line in lines)
                 {
